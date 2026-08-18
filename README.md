@@ -6,15 +6,19 @@ A modern and responsive weather application built with **Next.js, React, and Typ
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** [Add your live URL here](YOUR_LIVE_URL)
+🔗 **Live Application:** [https://weather-app-nine-theta-94.vercel.app/](YOUR_LIVE_URL)
 
 ---
 
 ## 📸 Screenshots
 
-### Home Page
+### Home Page (Dark Mode)
 
-![Weather App Home Page](./screenshots/home.png)
+![Weather App Home Page Dark Mode](./screenshots/home-dark.png)
+
+### Home Page (Light Mode)
+
+![Weather App Home Page Light Mode](./screenshots/home-light.png)
 
 ### Weather Details
 
