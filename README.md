@@ -6,7 +6,7 @@ A modern and responsive weather application built with **Next.js, React, and Typ
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** [https://weather-app-nine-theta-94.vercel.app/](YOUR_LIVE_URL)
+🔗 **Live Application:** <a href="https://weather-app-nine-theta-94.vercel.app/" target="_blank" rel="noopener noreferrer">https://weather-app-nine-theta-94.vercel.app/</a>
 
 ---
 
