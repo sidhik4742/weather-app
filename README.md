@@ -24,8 +24,6 @@ A modern and responsive weather application built with **Next.js, React, and Typ
 
 ![Weather Details](./screenshots/weather-details.png)
 
-> Add your screenshots to the `screenshots` folder in the project root.
-
 ---
 
 ## ✨ Features
@@ -154,7 +152,7 @@ npm install
 
 ## 🔑 Environment Variables
 
-Create a `.env.local` file in the root directory of the project.
+Create a `.env` file in the root directory of the project.
 
 ```env
 NEXT_PUBLIC_WEATHER_API_KEY=your_api_key_here
@@ -174,9 +172,9 @@ with your actual weather API key.
 NEXT_PUBLIC_WEATHER_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
-> ⚠️ **Important:** Never commit your `.env.local` file to GitHub if it contains a private API key or other sensitive credentials.
+> ⚠️ **Important:** Never commit your `.env` file to GitHub if it contains a private API key or other sensitive credentials.
 
-Make sure `.env.local` is included in your `.gitignore` file:
+Make sure `.env` is included in your `.gitignore` file:
 
 ```text
 .env*
